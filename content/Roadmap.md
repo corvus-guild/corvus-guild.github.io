@@ -1,7 +1,7 @@
 ---
 title: Roadmap - The Corvus Guild
 ---
-To be a sustainable organization, The Corvus Guild will be prioritizing a cycle that closely matches the heartbeat of international tech event cycles. We promote a deliberate pacing. Velocity is good, **but psychological safety matters more to us more**. The Corvus Guild is aware it is founded in the middle of international sprints. While it is tempting to immediately join these events and show representation, The Corvus Guild treats preparation, provisions, and morale as a priority that must be fulfilled to ensure a smooth journey along the way.
+To be a sustainable organization, The Corvus Guild will be prioritizing a cycle that closely matches the heartbeat of international tech event cycles. We promote a deliberate pacing. Velocity is good, **but psychological safety matters more to us**. The Corvus Guild is aware it is founded in the middle of international sprints. While it is tempting to immediately join these events and show representation, The Corvus Guild treats preparation, provisions, and morale as a priority that must be fulfilled to ensure a smooth journey along the way.
 
 ## Q3 & Q4 2026
 
