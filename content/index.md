@@ -1,28 +1,25 @@
 ---
-title: Triremis Home
+title: Welcome to Corvus
 ---
+![[corvus-banner.svg]]
 
-# TRIREMIS
+> **Corvus (Latin)**
+> Literally means crow or raven. In naval context, a corvus is a military drawbridge engineered by romans for boarding ships in naval warfare.
 
-> **Trireme (English · /ˈtraɪriːm/ TRY-reem) / Triremis (Latin · /trɪˈreːmɪs/ tri-REE-mis)** 
-> *singular, noun*
-> an ancient galley with three banks of oars, popularized by the Ancient Greeks and Romans.
+During the punic wars, the Romans used a contraption called the *corvus* to dominate the naval warfare. It allowed the legionnaires to deploy an engineered contraption and even the odds against their Carthaginian rival who was supposed to have naval superiority. Likewise, The Corvus Guild aims to bridge the gap between the Philippine academia and the international tech industry. Unlike the Roman Empire, we have no metaphorical Carthage, we have no wars. What we do have is a mission to champion: providing regional representation and opportunities for students to grow outside their course syllabus.
 
-![[triremis-banner.png]]
+The Corvus Guild was founded with the premise that every Filipino university students in computer engineering science, IT, and other tech-adjacent programs must be equipped with modern workflows and frameworks--and we mean every Filipino students. Not just the ones in Metro cities like Manila or Cebu, but also provinces of Negros island and the greater Western Visayas.
 
+For the longest time, student-led organizations and clubs have been contextualized in their respective academic institutions. The status quo is one where learner communities are fragmented. While the status quo works *well enough*, the region is starved for a community where students can form interconnected webs, exchange insights, and form a sense of camaraderie outside ones' institutional circle. The concept of "Building in Public" comes off as a niche rather than the norm.
 
-Just as the Greeks and the Romans sailed the open sea to fight wars, Triremis aims to sail the landscape of Philippine academia and tech industry. Unlike these ancient people, we have no wars to win. What we do have is a mission to champion: providing more regional representation and opportunities for students to grow outside their course syllabus. 
+The Corvus Guild is still in its embryonic stage. I confess, Corvus is not bootstrapped with an empire. an armada, or a legion. We are a few students with a passion for learning while building. We are motivated to bring the banner of our region's pride and take a shot at international events and hackathons.
 
-Triremis was founded with the premise that every Filipino university student in computer engineering, computer science, IT, and other tech-adjacent programs must be equipped with modern workflows and frameworks--And we mean every Filipino university student, not just the ones in Metro cities like Manila or Cebu, but also in provinces like of Negros Occidental and the greater western Visayas.
+We hope to gather support from organizations like Google Developer Group Bacolod, ICpEP.se, and other institutions, both professional and academic, to reach as many students as possible. You can visit our roadmap to see the specifics of our timeline.
 
-For the longest time, students groups--such as clubs and organizations, have been primarily contextualized in their respective universities here in Negros Occidental. While the status quo works well enough, the region is starved for a community where students can form interconnected webs and exchange insights, to foster a sense of camaraderie between peers outside ones' institution. Moreover, The concept of "building in public" comes off as a niche rather than the norm. 
+The Corvus Guild believes in leading by example and living what we preach. With our small group publicizing our experience with joining international online events such as hackathons, we aim to shatter the dogma that engaging in such tech events is high-friction. We want to organize a community where we can stay informed, coordinate, and prepare for these upcoming events and hackathons. 
 
-Triremis is still in its embryonic stage, I confess, we are but a friend group of three with a passion for working on technical projects, as well as being motivated to bring the banner of our region's pride and take a shot at hackathons. We hope to gather support from organizations like Google Developer Group Bacolod, ICpEP.se, and other circles to reach as many students as possible. By Q1 of 2027, we aim to join our first international hackathon. We want to make an example so that our peers can be inspired. We want to shatter the dogma that engaging with the international tech scene and contests is high-friction. We want to organize a community where we can coordinate and prepare for upcoming events and hackathons. We aim to raise a pocket of student developers who are confident in their abilities as we encourage each other to build and ship projects while still in the academia.
+The goal with Corvus Guild is to foster the next generation of student developers who are confident in their abilities to create tangible results by building and engage with the global tech scene. We do this by making our members comfortable with real-world engagements and encouraging each other to build and ship projects while in academia.
 
-> **Triremes (English · /ˈtraɪriːmz/ TRY-reems) / Triremes (Latin · /trɪˈreːmeːs/ tri-REE-mes)** 
-> *plural, noun*
-> ancient galleys with three banks of oars, popularized by the Ancient Greeks and Romans.
-
-While the keepsake of this guild, Triremis, is a singular noun in Latin, the simple act of changing a syllable transforms the definition of a single naval unit into a naval fleet. For now, we are the size of one ancient galley -- an indigent cluster. We believe that by starting local, we are able to best concentrate our efforts into building something that sails. Triremes on the other hand is pluralistic from a single-letter change. In the same manner, we believe that as the project grows, we welcome a larger community with open arms. Either way, Triremis will be the vessel to make this vision into reality.
+For now, we are the size of exactly one ship, an indigent cluster of students as far as the world is concerned. By starting small and local, we are able to concentrate our efforts into building something that sails. As the project grows, we welcome more people in the community with open arms. just as the Romans did, The Corvus Guild will equip every student, every ship, with the machinery for engaging with the international sea of the industry.
 
 -- Justin Jacob Encabo
