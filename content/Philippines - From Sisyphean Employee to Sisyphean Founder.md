@@ -1,6 +1,5 @@
 ---
 title: "Philippines: From Sisyphean Employee to Sisyphean Founder?"
-aliases:
 author: Justin Jacob Encabo
 tags:
   - "#templates/blog-post"
