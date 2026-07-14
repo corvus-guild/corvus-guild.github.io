@@ -1,10 +1,10 @@
-/* Replace "Created with Quartz" with Triremis Copyright and blend with footer style */
+/* Replace "Created with Quartz" with The Corvus Guild Copyright and blend with footer style */
 footer {
   & > *:first-child {
     font-size: 0 !important;
     
     &::after {
-      content: "© 2026 Triremis Guild";
+      content: "© 2026 The Corvus Guild";
       font-size: 1rem !important;
       display: inline;
       color: var(--darkgray);
